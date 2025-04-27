@@ -7,12 +7,22 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "uji coba membuat repo di github",
   "dependencies": {
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
     "multer": "^1.4.5-lts.2",
     "mysql": "^2.18.1",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamuray/belajar-Backend_perpustakaan.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jamuray/belajar-Backend_perpustakaan/issues"
+  },
+  "homepage": "https://github.com/jamuray/belajar-Backend_perpustakaan#readme"
 }
